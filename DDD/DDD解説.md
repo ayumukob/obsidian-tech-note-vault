@@ -1,0 +1,9 @@
+[[DDD Alliance]]
+[[増田さんslideshare]]
+[[ボトムアップドメイン駆動設計]]
+[[IDDD本から理解するドメイン駆動設計]]
+[[「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！]]
+[[DDD の Java EE 実装サンプル - Cargo Tracker を読み解く]]
+[[DDD 難民に捧げる Domain-Driven Design のエッセンス]]
+[[ドメイン駆動設計ドメインモデルの役割と例]]
+#ddd 
