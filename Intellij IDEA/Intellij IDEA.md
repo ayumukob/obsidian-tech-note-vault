@@ -23,3 +23,6 @@ Eclipseと同じようにCheckStyleやりたい場合は`CheckStyle-IDEA`プラ�
 カスタムVMオプションに`-Dfile.encoding=UTF-8`を追加すると解決する
 `メニュー`->`ヘルプ`->`カスタムVMオプションの編集`  
 #intellij
+## 設定
+- プロジェクトツリーで選択したファイルをエディタに表示する(クリックで表示)
+	- Auto Scroll to Sourceにチェック
